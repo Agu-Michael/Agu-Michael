@@ -6,7 +6,7 @@ ________________________________________________________________________________
 \
 `Javascript` `Python` `AWS` `HTML and CSS` `ReactJs` `Tailwind` `PostMan`\
 \
-[![My Skills](https://skillicons.dev/icons?i=js,python,aws,html,css,reactjs,tailwind,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,python,aws,html,css,nextjs,tailwind,postman)](https://skillicons.dev)
 
 
 - I also work with Nextjs, Firebase and React frameworks. \
