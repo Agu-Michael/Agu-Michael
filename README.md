@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Michael Agu
-A Frontend Software Engineering
+A Frontend Software Engineer
 __________________________________________________________________________________________________________________________________________________________
 
 🌱 I am proficient in:\
