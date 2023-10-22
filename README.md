@@ -21,11 +21,11 @@ ________________________________________________________________________________
  [![trophy](https://github-profile-trophy.vercel.app/?username=Agu-Michael&theme=nord)](https://github.com/Agu-Michael/github-profile-trophy)
  __________________________________________________________________________________________________________________________________________________________
  📫 How to reach me:
- <!-- - LinkedIn: [Michael Agu](https://www.linkedin.com/in/michael-agu-4164951a6/) -->
+ - LinkedIn: [Michael Agu](https://www.linkedin.com/in/michael-agu-4164951a6/) 
  <!-- - Twitter: [@Adeola_Ade1](https://twitter.com/Adeola_Ade1) -->
  - Instagram: [@Michael__agu](https://www.instagram.com/Michael__agu/)
  - E-mail address: [agu95607@gmail.com](agu95607@gmail.com)
- - Portfolio: (https://michael-agu.vercel.app/)
+ - Portfolio: [https://michael-agu.vercel.app/]
 
  ![Agu Michael's Github stats](https://github-readme-stats.vercel.app/api?username=Agu-Michael&theme=highcontrast&show_icons=true&count_private=true&bg_color=00008B&title_color=ADD8E6&icon_color=ADD8E6&text_color=FFFFFF)
  ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Agu-Michael&layout=compact&langs_count=6&theme=dark&bg_color=00008B&title_color=ADD8E6&text_color=FFFFFF&card_width=300)
